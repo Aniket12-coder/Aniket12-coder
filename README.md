@@ -1,3 +1,5 @@
+![logo](https://github.com/Aniket12-coder/Aniket12-coder/blob/main/DALL%C2%B7E%202025-01-10%2012.26.11%20-%20A%20realistic%20and%20advanced%20programming-themed%20banner.%20The%20design%20features%20a%20futuristic%20interface%20with%20glowing%20neon%20green%20and%20blue%20code%20lines%20scrolling%20a.webp)
+
 <h1 align="center">Hi 👋, I'm Aniket Sharma</h1>
 <h3 align="center">2nd year BCA Student from Institute Of Engineering & Management</h3>
 
